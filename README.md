@@ -148,11 +148,13 @@
 
   <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_poland_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624548&adgroup=115749720623&gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRa64p_PAukDCcw8IAeNQPb6j0KSNXCaY97MN333suX3MsjT3lV7STsaAiFMEALw_wcB" target="_blank" rel="noreferrer" title="Mongo db">
     <img
-        src="https://umangsoftware.com/wp-content/uploads/2020/05/MongoDB-logo.png"
+        src="https://ahana.io/wp-content/uploads/2021/05/mongo-logo.png"
         alt="Mongo db" height="40"
     />
   </a>&nbsp;
 </p>
+
+...and more!
 
 <br>
 
