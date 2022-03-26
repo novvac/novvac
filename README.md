@@ -10,8 +10,6 @@
 
 - ❤️ Vue with Nuxt (SSR) or MEVN (SPA)
 
-- 🏆 Goal: nuxt-wallet-assistant app - https://github.com/novvac/nuxt-wallet-assistant
-
 - 🍩 Donut!
 
 - 📫 Do you have any questions? Send mail to: **novvac21@protonmail.com**
@@ -157,6 +155,13 @@
 ...and more!
 
 <br>
+
+<h3>Current project:</h3>
+<a target="_blank" href="https://github.com/novvac/nuxt-wallet-assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=novvac&repo=nuxt-wallet-assistant" alt="novvac/nuxt-wallet-assistant"/>
+</a>
+
+<br><br>
 
 <h3>My profile stats:</h3>
 <p><img align="center"
