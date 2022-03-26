@@ -12,6 +12,10 @@
 
 - 🍩 Donut!
 
+- ⚛️ I like atomic design pattern and BEM methodology! 😁
+
+- ✅ Mobile first!
+
 - 📫 Do you have any questions? Send mail to: **novvac21@protonmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
