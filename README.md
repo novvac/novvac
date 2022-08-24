@@ -8,7 +8,7 @@
 
 - 🌱 Web apps are my passion! Creating a useful app for others is my goal for the coming months!
 
-- ❤️ Vue with Nuxt (SSR) or MEVN (SPA)
+- ❤️ MERN, MEVN, Typescript, GraphQL
 
 - 🍩 Donut!
 
