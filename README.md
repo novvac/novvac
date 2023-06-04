@@ -16,7 +16,7 @@
 
 - ✅ Mobile first!
 
-- 📫 Do you have any questions? Send mail to: **novvac21@protonmail.com**
+- 📫 Do you have any questions? Send mail to: **s.nowak22@proton.me**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
